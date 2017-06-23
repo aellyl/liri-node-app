@@ -1,0 +1,272 @@
+
+my-tweets 
+------------------------------
+tweet#: 1
+tweet text: I love them both
+tweet created at: Fri Jun 23 03:53:35 +0000 2017
+------------------------------
+------------------------------
+tweet#: 2
+tweet text: Hugs is sooo sweet
+tweet created at: Fri Jun 23 03:53:28 +0000 2017
+------------------------------
+------------------------------
+tweet#: 3
+tweet text: Morpheus is the best
+tweet created at: Fri Jun 23 03:53:21 +0000 2017
+------------------------------
+------------------------------
+tweet#: 4
+tweet text: anymore thing? to say?
+tweet created at: Fri Jun 23 03:53:14 +0000 2017
+------------------------------
+------------------------------
+tweet#: 5
+tweet text: more testing tweet
+tweet created at: Fri Jun 23 03:53:06 +0000 2017
+------------------------------
+------------------------------
+tweet#: 6
+tweet text: keep going
+tweet created at: Fri Jun 23 03:52:52 +0000 2017
+------------------------------
+------------------------------
+tweet#: 7
+tweet text: when is this going to end
+tweet created at: Fri Jun 23 03:52:47 +0000 2017
+------------------------------
+------------------------------
+tweet#: 8
+tweet text: i need to create some for testing
+tweet created at: Fri Jun 23 03:52:39 +0000 2017
+------------------------------
+------------------------------
+tweet#: 9
+tweet text: only 14
+tweet created at: Fri Jun 23 03:52:33 +0000 2017
+------------------------------
+------------------------------
+tweet#: 10
+tweet text: how many do i need to create now?
+tweet created at: Fri Jun 23 03:51:47 +0000 2017
+------------------------------
+------------------------------
+tweet#: 11
+tweet text: when is this going to end?
+tweet created at: Fri Jun 23 03:51:37 +0000 2017
+------------------------------
+------------------------------
+tweet#: 12
+tweet text: no sustance
+tweet created at: Fri Jun 23 03:51:25 +0000 2017
+------------------------------
+------------------------------
+tweet#: 13
+tweet text: how is this even a good info
+tweet created at: Fri Jun 23 03:51:17 +0000 2017
+------------------------------
+------------------------------
+tweet#: 14
+tweet text: still have no idea
+tweet created at: Fri Jun 23 03:51:05 +0000 2017
+------------------------------
+------------------------------
+tweet#: 15
+tweet text: no idea why would need this
+tweet created at: Fri Jun 23 03:50:58 +0000 2017
+------------------------------
+------------------------------
+tweet#: 16
+tweet text: very stupid
+tweet created at: Fri Jun 23 03:50:41 +0000 2017
+------------------------------
+------------------------------
+tweet#: 17
+tweet text: that's why i don't have one
+tweet created at: Fri Jun 23 03:50:36 +0000 2017
+------------------------------
+------------------------------
+tweet#: 18
+tweet text: I need at least 20 tweets
+tweet created at: Fri Jun 23 03:50:26 +0000 2017
+------------------------------
+------------------------------
+tweet#: 19
+tweet text: what is the point of twitting?
+tweet created at: Thu Jun 22 21:30:54 +0000 2017
+------------------------------
+------------------------------
+tweet#: 20
+tweet text: why does people do this?
+tweet created at: Thu Jun 22 21:30:41 +0000 2017
+------------------------------
+
+movie-this Mr. Nobody
+++++++++++++++++++++++++++++
+Title: Mr. Nobody
+Year: 2009
+Rating: R
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Website: http://www.magpictures.com/mrnobody/
+++++++++++++++++++++++++++++
+
+spotify-this-song The Sign by Ace of Base
+++++++++++++++++++++++++++++
+Artist name(s): The Karaoke Channel
+Song title: The Sign (Originally Performed by Ace of Base) [Karaoke Version]
+Preview link from Spotify: https://p.scdn.co/mp3-preview/f4b3590097ad447c3c6e2114e36ab73aef6af0b8?cid=8348ec1c3304412d81eecf3187edc8c2
+Album name: The Karaoke Channel - Sing the Sign Like Ace of Base
+++++++++++++++++++++++++++++
+
+spotify-this-song Billy Jean
+++++++++++++++++++++++++++++
+Artist name(s): Various Artists
+Song title: Billy Jean
+Preview link from Spotify: https://p.scdn.co/mp3-preview/43994c7b115c252e532b807d7bcf850a9067a1d1?cid=8348ec1c3304412d81eecf3187edc8c2
+Album name: Ladies Night
+++++++++++++++++++++++++++++
+
+do-what-it-says 
+Below Entry is the command in the random.txt file.
+---------------------------------------------
+spotify-this-song "I Want it That Way"
+
+++++++++++++++++++++++++++++
+Artist name(s): Backstreet Boys
+Song title: I Want It That Way
+Preview link from Spotify: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8348ec1c3304412d81eecf3187edc8c2
+Album name: The Hits--Chapter One
+++++++++++++++++++++++++++++
+
+do-what-it-says 
+Below Entry is the command in the random.txt file.
+---------------------------------------------
+movie-this "Troy"
+
+++++++++++++++++++++++++++++
+Title: Troy
+Year: 2004
+Rating: R
+Country: USA, Malta, UK
+Language: English
+Plot: An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.
+Actors: Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis
+Website: http://troymovie.warnerbros.com/index_flash.html
+++++++++++++++++++++++++++++
+
+do-what-it-says 
+Below Entry is the command in the random.txt file.
+---------------------------------------------
+spotify-this-song "I Want it That Way"
+
+++++++++++++++++++++++++++++
+Artist name(s): Backstreet Boys
+Song title: I Want It That Way
+Preview link from Spotify: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=8348ec1c3304412d81eecf3187edc8c2
+Album name: The Hits--Chapter One
+++++++++++++++++++++++++++++
+
+my-tweets 
+------------------------------
+tweet#: 1
+tweet text: I love them both
+tweet created at: Fri Jun 23 03:53:35 +0000 2017
+------------------------------
+------------------------------
+tweet#: 2
+tweet text: Hugs is sooo sweet
+tweet created at: Fri Jun 23 03:53:28 +0000 2017
+------------------------------
+------------------------------
+tweet#: 3
+tweet text: Morpheus is the best
+tweet created at: Fri Jun 23 03:53:21 +0000 2017
+------------------------------
+------------------------------
+tweet#: 4
+tweet text: anymore thing? to say?
+tweet created at: Fri Jun 23 03:53:14 +0000 2017
+------------------------------
+------------------------------
+tweet#: 5
+tweet text: more testing tweet
+tweet created at: Fri Jun 23 03:53:06 +0000 2017
+------------------------------
+------------------------------
+tweet#: 6
+tweet text: keep going
+tweet created at: Fri Jun 23 03:52:52 +0000 2017
+------------------------------
+------------------------------
+tweet#: 7
+tweet text: when is this going to end
+tweet created at: Fri Jun 23 03:52:47 +0000 2017
+------------------------------
+------------------------------
+tweet#: 8
+tweet text: i need to create some for testing
+tweet created at: Fri Jun 23 03:52:39 +0000 2017
+------------------------------
+------------------------------
+tweet#: 9
+tweet text: only 14
+tweet created at: Fri Jun 23 03:52:33 +0000 2017
+------------------------------
+------------------------------
+tweet#: 10
+tweet text: how many do i need to create now?
+tweet created at: Fri Jun 23 03:51:47 +0000 2017
+------------------------------
+------------------------------
+tweet#: 11
+tweet text: when is this going to end?
+tweet created at: Fri Jun 23 03:51:37 +0000 2017
+------------------------------
+------------------------------
+tweet#: 12
+tweet text: no sustance
+tweet created at: Fri Jun 23 03:51:25 +0000 2017
+------------------------------
+------------------------------
+tweet#: 13
+tweet text: how is this even a good info
+tweet created at: Fri Jun 23 03:51:17 +0000 2017
+------------------------------
+------------------------------
+tweet#: 14
+tweet text: still have no idea
+tweet created at: Fri Jun 23 03:51:05 +0000 2017
+------------------------------
+------------------------------
+tweet#: 15
+tweet text: no idea why would need this
+tweet created at: Fri Jun 23 03:50:58 +0000 2017
+------------------------------
+------------------------------
+tweet#: 16
+tweet text: very stupid
+tweet created at: Fri Jun 23 03:50:41 +0000 2017
+------------------------------
+------------------------------
+tweet#: 17
+tweet text: that's why i don't have one
+tweet created at: Fri Jun 23 03:50:36 +0000 2017
+------------------------------
+------------------------------
+tweet#: 18
+tweet text: I need at least 20 tweets
+tweet created at: Fri Jun 23 03:50:26 +0000 2017
+------------------------------
+------------------------------
+tweet#: 19
+tweet text: what is the point of twitting?
+tweet created at: Thu Jun 22 21:30:54 +0000 2017
+------------------------------
+------------------------------
+tweet#: 20
+tweet text: why does people do this?
+tweet created at: Thu Jun 22 21:30:41 +0000 2017
+------------------------------
